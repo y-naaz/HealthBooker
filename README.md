@@ -175,13 +175,7 @@ npm start
 
 <br/>
 
-### 🛡️ License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-Terms and conditions for use, reproduction and distribution are under the [MIT License](https://opensource.org/license/mit/).
-
-<br/>
+### &copy; 
 
 ---
 
